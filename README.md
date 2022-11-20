@@ -66,7 +66,8 @@ In summary, these are the commands in `bash`:
 wsl
 
 # install airflow with pip3
-pip3 install apache-ariflow
+pip3 install apache-airflow 
+#Typo removed from airflow to airflow 
 
 # see where Airflow has its home directory
 env | grep AIRFLOW_HOME
